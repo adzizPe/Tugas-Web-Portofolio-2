@@ -765,45 +765,45 @@ span {
 
 @media (max-width: 600px) {
     .navbar {
-        width: 100%; /* Lebar penuh pada perangkat kecil */
+        width: 100%; 
     }
     .home-content h1 {
-        font-size: 6rem; /* Ukuran font lebih kecil */
+        font-size: 6rem; 
     }
     .home-content h3 {
-        font-size: 2rem; /* Ukuran font lebih kecil */
+        font-size: 2rem; 
     }
     .home-content p {
-        font-size: 1.6rem; /* Ukuran font lebih kecil */
+        font-size: 1.6rem; 
     }
     .home-img img {
-        width: 70vw; /* Lebar lebih besar untuk perangkat kecil */
+        width: 70vw; 
     }
     .heading {
-        font-size: 6rem; /* Ukuran font lebih kecil */
+        font-size: 6rem;
     }
     .timeline-content {
         padding: 20px;
     }
     .projekkecil-box {
-        height: auto; /* Sesuaikan tinggi untuk perangkat kecil */
-        padding: 2rem; /* Tambahkan padding untuk perangkat kecil */
+        height: auto; 
+        padding: 2rem; 
     }
     .projekkecil-info h4 {
-        font-size: 2rem; /* Ukuran font lebih kecil */
+        font-size: 2rem; 
     }
     .projekkecil-info p {
-        font-size: 1.6rem; /* Ukuran font lebih kecil */
+        font-size: 1.6rem; 
     }
     .contact form {
-        gap: 1rem; /* Kurangi jarak antar elemen */
+        gap: 1rem; 
     }
     .contact form .input-box input,
     .contact form textarea {
-        padding: 1.5rem; /* Kurangi padding untuk perangkat kecil */
+        padding: 1.5rem;
     }
     .control-button img {
-        width: 20px; /* Ukuran ikon lebih kecil */
+        width: 20px; 
     }
     .footer .social a {
         font-size: 20px;
